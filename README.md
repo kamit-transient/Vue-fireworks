@@ -1,3 +1,5 @@
+## Originally written by https://github.com/dampion/Vue-fireworks
+
 # vue-firework
 
 ## Project setup
